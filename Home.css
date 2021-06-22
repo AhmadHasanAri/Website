@@ -1,0 +1,62 @@
+.First {
+	color:#27C4B1;
+	background-color:#2450A9;
+	font-family:"Copperplate", cursive, sans-serif;
+	text-align:center;
+	padding:15px;
+	border:5px groove red;
+	border-radius:10px;
+}
+
+h3 {
+	color:#194071;
+	font-family:"Monaco", sans-serif;
+	text-align:center;
+	font-style:italic;
+}
+
+p {
+	color:#0B6709;
+	font-family:"Monaco", sans-serif;
+	text-align:justify;
+}
+
+.blog {
+	color:black;
+	background-color:#EAEAEA;
+	padding:10px;
+	font-family:"Chalkboard SE", sans-serif;
+	border:5px dashed gray;
+	border-radius:3px;
+}
+
+.footer {
+	color:gray;
+	position:absolute;
+	top:860px;
+	left:850px;
+}
+
+a:link {
+	float:left;
+	padding:10px;
+	font-style:bold;
+	font-family:"Monaco", sans-serif;
+	color:#1F8BD6;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#1F8BD6;
+}
+
+a:hover {
+	color:#420A76;
+}
+
+#clickme {
+	color:#33A0E3;
+	background-color:#6F2525;
+	border:3px solid black;
+	border-radius:2px;
+}
